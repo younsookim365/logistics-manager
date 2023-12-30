@@ -45,7 +45,7 @@ public class LogisticsManager {
         }
         switch (category) {
             case "1":
-                deliveryDetails.setWeight("0kg - 5kg");
+                deliveryDetails.setWeight("0kg - 4kg");
                 deliveryDetails.setPrice(300);
                 break;
             case "2":

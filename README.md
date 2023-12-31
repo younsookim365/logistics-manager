@@ -1,6 +1,9 @@
 # Logistics Manager
 Java application designed to streamline the delivery planning process.
 
+## Overview
+This application enables users to choose a destination town for sending a package, pick a weight category, and select an appropriate courier service to manage the delivery.
+
 ## Features
 - User-friendly interface for selecting delivery options.
 - Calculation of delivery costs based on weight categories.
